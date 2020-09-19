@@ -27,10 +27,11 @@ img {
 .center {
   margin: auto;
   position: absolute;
-  top: 0;
+  top: 200px;
   left: 0;
   bottom: 0;
   right: 0;
+
 }
 
 ul {
@@ -49,4 +50,7 @@ h3:hover{
 
   text-shadow: 6px 5px 9px black;
 
+}
+h1,h4,h2{
+  font-family: "Cairo";
 }
